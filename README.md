@@ -218,26 +218,4 @@ Download the dataset from the World Bank:
 
 ---
 
-## Citation
-
-If you use this code or methodology in your research, please cite:
-
-```bibtex
-@article{biswas2026renewable,
-  title   = {Global Renewable Energy Consumption Forecasting: A Comparative Benchmarking Study},
-  author  = {Biswas, Shaon and Irshad, Asadullah and Roy, Paramita},
-  journal = {Computer Engineering and Intelligent Systems},
-  year    = {2026},
-  doi     = {10.7176/CEIS/17-1-05}
-}
-```
-
----
-
-## License
-
-This repository is shared for academic reproducibility. Please cite the paper if you build on this work.
-
----
-
 *Generated from `forecasting_benchmark_v10.ipynb` — set SEED = 42 and run all cells top-to-bottom to reproduce all results.*
